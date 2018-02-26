@@ -1,0 +1,49 @@
+﻿{
+	"prefix": "!",
+
+	"anilist":
+	{
+		"clientId": "",
+		"clientSecret": ""
+	},
+
+	"recorder":
+	{
+		"folder": "Audio",
+		"cleanupInterval": 10,
+		"cleanupLowTreshold": 200000,
+		"cleanupHighTreshold": 2000000,
+		"recordBots": "false",
+		"historySize": 120
+	},
+
+	"logger":
+	{
+		"folder":  "Logs",
+		"avatar": ""
+	},
+
+	"channel":
+	{
+		"name": "ipotenusa",
+		"refreshRate":  10000
+	},
+
+	"parrot":
+	{
+		"folder": "Audio",
+		"favFolder": "Favourites",
+		"maxTime": 20,
+		"minTime": 5
+	},
+
+	"sounds":
+	{
+		"folder": "DefaultAudio"
+	},
+
+	"tokens":
+	{
+		"discord": ""
+	}
+}
