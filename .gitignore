@@ -26,3 +26,6 @@ TestResults/
 # Configuration
 #######################
 _configuration.json
+
+*.exe
+*.dll
